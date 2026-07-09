@@ -1,0 +1,4 @@
+numpy>=1.26
+pandas>=2.0
+faker>=20.0
+kafka-python>=2.0  #requis uniquement pour stream_similator.py en mode kafka
