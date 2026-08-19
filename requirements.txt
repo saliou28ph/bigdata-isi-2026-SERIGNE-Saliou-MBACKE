@@ -1,4 +1,9 @@
 numpy>=1.26
 pandas>=2.0
 faker>=20.0
-kafka-python>=2.0  #requis uniquement pour stream_similator.py en mode kafka
+kafka-python>=2.0
+pyspark==3.5.1
+#istallation pytest pour tp2
+pytest==9.1.1
+chispa==0.12.0
+jupyter
